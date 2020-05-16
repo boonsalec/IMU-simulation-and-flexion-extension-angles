@@ -2,3 +2,7 @@
 Simulatie van inertie data uit visuele data voor de berekening van flexie/extensie hoeken bij Parkinsonian gait
 
 Code zal geupload worden voor 26 mei 9u00
+
+Contributors:
+-Bram Verbeke
+-Alec Boons
